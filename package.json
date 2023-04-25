@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahabhi095/sky_secret.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shahabhi095/sky_secret/issues"
+  },
+  "homepage": "https://github.com/shahabhi095/sky_secret#readme"
 }
